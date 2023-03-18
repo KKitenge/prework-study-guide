@@ -3,7 +3,7 @@
 ## Description
 
 This is a study guide created before the beginning of coding bootcamp. 
-It is help with gaining knowledge  on the folling submects:
+It is help with gaining knowledge  on the folling subjects:
 
 HTML
 CSS
